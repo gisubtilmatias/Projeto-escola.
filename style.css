@@ -1,0 +1,32 @@
+.cabeçalho{
+  display: inline-flex;
+}
+
+.mostarda{
+  background-color: #B7730E;
+  width: 720px;
+  height: 297px;
+  display: flex;
+  justify-content: center;
+}
+
+.mostarda_imagem{
+  width: 233.53px;
+  height: 229.74px;
+  padding: 34px;
+}
+
+.cinza{
+   background-color: #B0AFAF;
+   width: 720px;
+   height: 297px;
+   display: flex;
+   justify-content: center;
+   font-family: 'Inconsolata', monospace;
+}
+
+.cinza_imagem{
+  width: 233.53px;
+  height: 229.74px;
+  padding: 34px;
+}
