@@ -1,32 +1,55 @@
 .cabeçalho{
-  display: inline-flex;
+   display: inline-flex;
 }
 
 .mostarda{
-  background-color: #B7730E;
-  width: 720px;
-  height: 297px;
-  display: flex;
-  justify-content: center;
+   background-color: #B7730E;
+   width: 1000px;
+   height: 297px;
+   display: flex;
+   justify-content: center;
 }
 
 .mostarda_imagem{
-  width: 233.53px;
-  height: 229.74px;
-  padding: 34px;
+   width: 233.53px;
+   height: 229.74px;
+   padding: 34px;
 }
 
 .cinza{
    background-color: #B0AFAF;
-   width: 720px;
+   width: 1000px;
    height: 297px;
    display: flex;
    justify-content: center;
    font-family: 'Inconsolata', monospace;
+   font-weight: 700;
+   font-size: 64px;
 }
 
-.cinza_imagem{
-  width: 233.53px;
-  height: 229.74px;
-  padding: 34px;
+.cinza_texto{
+   display: inline-flex;
+   align-items: center;
+   margin: 77px;
+   text-align: center;
 }
+
+.título{
+   font-family: 'Inter', sans-serif; 
+   font-weight: 900;
+   font-size: 88px;
+   display: flex;
+   justify-content: center;
+   padding: 30px;
+}
+
+.texto{
+   font-family: 'Inter', sans-serif;
+   font-weight: 400;
+   font-size: 40px;
+   text-align: justify;
+   margin: 35px ;
+   width: 1870px;
+   height: 240px;
+}
+
