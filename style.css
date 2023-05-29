@@ -66,32 +66,52 @@
    font-family: 'Inter', sans-serif;
    font-weight: 600;
    font-size: 36px;
-   text-align: center;
+   margin-left: 220px;
 }
 
 .Laboratório_identificação{
    font-family: 'Inter', sans-serif;
    font-weight: 600;
    font-size: 36px;
-   text-align: center;
+   margin-left: 16px;
 }
 
 .Quadra_identificação{
    font-family: 'Inter', sans-serif;
    font-weight: 600;
    font-size: 36px;
-   text-align: center;
+   margin-left: 165px;
 }
 
 .Pátio_identificação{
    font-family: 'Inter', sans-serif;
    font-weight: 600;
    font-size: 35px;
-   text-align: center;
+   margin-left: 200px;
 }
 
+.rodapé{
+   background-color: black;
+   width: 1900px;
+   height: 100px;
+   display: grid;
+   grid-template-columns: 230spx 34px 1900px;
+   padding: 20px;
+}
 
+.link{
+   color: #FFFFFF;
+   font-family: 'Inter', sans-serif;
+   font-weight: 900;
+   font-size: 32px;
+   text-align: center;
+   padding-top: 35px;
+}
 
+.a:link{
+   color: #FFFFFF;
+
+}
 
 
 
