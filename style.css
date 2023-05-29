@@ -53,3 +53,45 @@
    height: 240px;
 }
 
+.estrutura{
+   display: grid;
+   grid-template-columns: 980px 980px;
+   row-gap: 72px;
+   column-gap: 40px;
+   margin: 100px;
+   padding-bottom: 27px;
+}
+
+.fachada_identificação{
+   font-family: 'Inter', sans-serif;
+   font-weight: 600;
+   font-size: 36px;
+   text-align: center;
+}
+
+.Laboratório_identificação{
+   font-family: 'Inter', sans-serif;
+   font-weight: 600;
+   font-size: 36px;
+   text-align: center;
+}
+
+.Quadra_identificação{
+   font-family: 'Inter', sans-serif;
+   font-weight: 600;
+   font-size: 36px;
+   text-align: center;
+}
+
+.Pátio_identificação{
+   font-family: 'Inter', sans-serif;
+   font-weight: 600;
+   font-size: 35px;
+   text-align: center;
+}
+
+
+
+
+
+
