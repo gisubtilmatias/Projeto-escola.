@@ -93,9 +93,9 @@
 .rodapé{
    background-color: black;
    width: 1900px;
-   height: 100px;
+   height: 150px;
    display: grid;
-   grid-template-columns: 230spx 34px 1900px;
+   grid-template-columns: 230px 34px 1900px;
    padding: 20px;
 }
 
@@ -112,6 +112,29 @@
    color: #FFFFFF;
 
 }
+
+.icone{
+   display: grid;
+   row-gap: 12px;
+   padding-left: 50px;
+   border-top: 2px;
+}
+
+.informações{
+   color: #B7730E;
+   font-family: 'Inter', sans-serif;
+   font-weight: 300;
+   font-size: 28px;
+   display: grid;
+   row-gap: 20px;
+   padding-left: 60px;
+   padding-top: 2px;
+   width: 1127px;
+}
+
+
+
+
 
 
 
